@@ -22,8 +22,8 @@ This repository demonstrates how to use PySpark to analyze and process flight da
 To run this project, ensure you have the following installed:
 - Python 3.8 or higher
 - Apache Spark
+- PySpark
 - Jupyter Notebook
-- Required Python packages
 
 ### Requirements
 The project requires the following Python packages:
