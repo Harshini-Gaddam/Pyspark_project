@@ -25,8 +25,7 @@ To run this project, ensure you have the following installed:
 - PySpark
 - Jupyter Notebook
 
-### Requirements
-The project requires the following Python packages:
-- PySpark
-- Pandas
-- NumPy
+### Key Learnings
+- PySpark supports SQL and DataFrame APIs for large-scale data processing.
+- The explain() function provides insights into query optimization and execution plans.
+- Combining SQL and functional programming paradigms in PySpark enables flexible and powerful data analysis workflows.
